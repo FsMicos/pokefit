@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">pokefit</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_selecciona_tu_poke">SeleccionaTuPokeActivity</string>
+
+    <string name="pokefit_header">Somos\nPokeFit</string>
+    <string name="survey_main_question">¿Cuál es tu objetivo?</string>
+    <string name="survey_steps_question">¿Cuántos pasos al día realizas?</string>
+    <string name="pokefit_logo_description">Logo de PokeFit</string>
+    <string name="option_exit_sedentary">Salir de sedentarismo</string>
+    <string name="option_improve_training">Mejorar mi entrenamiento</string>
+    <string name="option_velocity">Velocidad</string>
+    <string name="option_strength">Fuerza</string>
+    <string name="option_resistance">Resistencia</string>
+    <string name="button_ok">OK</string>
+    <string name="button_back">Regresar</string>
+
+    <string name="label_steps_number">Número de Pasos</string>
 </resources>
